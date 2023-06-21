@@ -1,0 +1,56 @@
+Company: ICE (Intercontinental Exchange)
+
+Job Title:
+    Analyst - Index Data Operations
+
+Job Location:
+    Hyderabad, India
+
+General Summary:
+    This is a data scientist position with primary focus on enabling high quality input data for our index franchise.
+
+Key Responsibilities:
+     Identify data whose quality is suspect using predictive analytics techniques
+     Create algorithms for rebalancing of indices according to the relevant index rule book
+    clearly attributing the causes for changes in composition of indices
+     Cleansing historical records of data by imputing null values with non-fictitious data and
+    identifying high variance records using machine learning techniques
+     Identifying, extracting, and transforming unstructured data into structured data for further
+    processing using machine learning techniques
+     Aid in automating mundane processes
+
+Required Basic Qualifications &amp; Traits:
+     Undergraduate degree, preferably in Math or Technology.
+     Working knowledge with Python, Structured Query Language and Microsoft Excel.
+     Knowledge of Statistics and experience applying these to machine learning models,
+    analyzing results
+     Good data visualization skills in Python
+     Ability to work under stringent time constraints, multi-task and prioritize workload
+     Strong written and verbal communication skills are essential
+     Good organizational skills with keen attention to detail
+     Ability to work as a part of a team and independently
+
+Preferred Qualifications:
+     Passed some or all three levels of the CFA Program or working towards the CFA charter
+     Knowledge of and/or experience within Equity and Fixed Income Markets, focus on data quality, identifying &amp; analyzing corporate actions
+
+Number of years of relevant work experience:
+    2 to 3
+
+About Intercontinental Exchange:
+    Intercontinental Exchange (NYSE: ICE) is a Fortune 500 company that designs, builds and
+    operates digital networks to connect people to opportunity. We provide financial technology and
+    data services across major asset classes that offer our customers access to mission-critical
+    workflow tools that increase transparency and operational efficiencies. We operate exchanges,
+    including the New York Stock Exchange, and clearing houses that help people invest, raise
+    capital and manage risk across multiple asset classes. Our comprehensive fixed income data
+    services and execution capabilities provide information, analytics and platforms that help our
+    customers capitalize on opportunities and operate more efficiently. At ICE Mortgage
+    Technology, we are transforming and digitizing the U.S. residential mortgage process, from
+    consumer engagement through loan registration. Together, we transform, streamline and
+    automate industries to connect our customers to opportunity.
+    
+    Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All
+    qualified applicants will receive consideration for employment without regard to race, color,
+    religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or
+    veteran status, or other protected status.

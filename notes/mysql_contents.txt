@@ -1,0 +1,39 @@
+Basic SQL Concepts:
+
+What is SQL and its different components?
+What are the different types of SQL statements?
+Explain the differences between primary key and foreign key.
+Database Design and Normalization:
+
+What is database normalization, and why is it important?
+Explain the different normalization forms (e.g., 1NF, 2NF, 3NF).
+How would you identify and resolve database anomalies?
+SQL Queries:
+
+Write a SQL query to retrieve data from a table.
+Explain the differences between the SELECT, INSERT, UPDATE, and DELETE statements.
+How would you join multiple tables in a query?
+Database Indexing:
+
+What is indexing in databases, and why is it used?
+Explain the differences between clustered and non-clustered indexes.
+How can you optimize a query using indexing?
+Stored Procedures and Functions:
+
+What are stored procedures and functions?
+How do they differ from each other?
+Explain the advantages of using stored procedures and functions.
+Transaction Management:
+
+What is a database transaction?
+Explain the ACID properties of a transaction.
+How would you handle transactions in MySQL?
+Data Backup and Recovery:
+
+What are the different methods for backing up MySQL databases?
+How would you restore a database from a backup file?
+Performance Optimization:
+
+How can you optimize the performance of MySQL queries?
+What are the tools or techniques you can use to identify performance bottlenecks?
+Explain the importance of query optimization and indexing.
