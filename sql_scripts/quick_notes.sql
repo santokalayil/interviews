@@ -17,3 +17,5 @@ select first_name, salary, department_id, row_number() over (partition by depart
 
 -- 5th position based on salary in each deparementment
 select * from (select first_name, salary, department_id, row_number() over (partition by department_id order by salary desc) as rownum from employees) as temp where temp.rownum = 5;
+
+
