@@ -1,0 +1,67 @@
+Vijay Narayan: Country Head of Index Operations -
+
+Index Operations:
+    Index operations refers to the activities and processes involved in managing and maintaining an index. It's like taking care of a special list that shows how a group of companies or investments are doing together. Index operations include tasks such as selecting which companies or assets should be included in the index, deciding how much each company should count in the index, and updating the index regularly as things change.
+
+    The goal of index operations is to make sure the index accurately reflects the performance of the companies or investments it represents. It involves collecting and processing data, ensuring the data is accurate and up-to-date, and making any necessary adjustments to the index. Index operations also involve working with teams and stakeholders to ensure the smooth functioning of the index.
+
+    In summary, index operations is all about managing and maintaining the special list that shows how a group of companies or investments are doing together, so that investors and others can use it to understand the overall performance of that group.
+
+    Index operations at Intercontinental Exchange (ICE), the parent company of the New York Stock Exchange (NYSE), involves managing and maintaining special lists called indices. These indices group together specific companies or investments to show how they are performing collectively. As part of the team, my role would be to help ensure the accuracy and reliability of these indices. This includes selecting the companies to be included in each index, determining their weight or importance within the index, and regularly updating the indices to reflect changes in the market. By doing so, we provide investors and others with valuable information to understand how a group of companies or investments is performing as a whole
+
+Here are a few examples of indices associated with ICE:
+
+    NYSE Composite Index: The NYSE Composite Index is a broad-based index that includes all common stocks listed on the New York Stock Exchange (NYSE). It covers a wide range of sectors and is designed to represent the overall performance of the NYSE.
+
+    Russell Indexes: ICE acquired the index provider Russell Investments in 2014. As a result, ICE now manages and maintains the Russell Indexes, including the well-known Russell 2000 Index, which represents the performance of small-cap U.S. stocks.
+
+    ICE U.S. Treasury Indices: ICE provides a range of U.S. Treasury indices that track the performance of U.S. government debt securities, such as the ICE U.S. Treasury 7-10 Year Bond Index and the ICE U.S. Treasury 20+ Year Bond Index.
+
+    ICE BofA Indices: ICE and Bank of America (BofA) have collaborated to create a suite of bond indices known as the ICE BofA Indices. These indices cover various fixed-income sectors and provide benchmarking and performance measurement tools for the bond market.
+
+These are just a few examples of indices associated with ICE. It's worth noting that index offerings and specific indices can evolve over time as ICE continues to expand its offerings and partnerships. For the most up-to-date and comprehensive information on indices managed by ICE, it's recommended to refer to their official website or communications.
+
+
+The indices I listed, such as the S&P 500, Dow Jones Industrial Average (DJIA), NASDAQ Composite, FTSE 100, and Nikkei 225, are managed by different index providers. Here's the breakdown:
+
+    S&P 500: The S&P 500 is managed by S&P Dow Jones Indices, a division of S&P Global. It is not affiliated with ICE.
+
+    Dow Jones Industrial Average (DJIA): The DJIA is also managed by S&P Dow Jones Indices, in collaboration with Dow Jones & Company. It is not affiliated with ICE.
+
+    NASDAQ Composite: The NASDAQ Composite is managed by Nasdaq, Inc. It represents the performance of all stocks listed on the NASDAQ stock exchange. Nasdaq, Inc. is a separate entity from ICE.
+
+    FTSE 100: The FTSE 100 is managed by FTSE Russell, a subsidiary of London Stock Exchange Group. It is not affiliated with ICE.
+
+    Nikkei 225: The Nikkei 225 is managed by Nikkei, Inc., a Japanese media company. It is not affiliated with ICE.
+
+Intercontinental Exchange (ICE) is the parent company of the New York Stock Exchange (NYSE), which operates its own indices such as the NYSE Composite Index and various sector-specific indices. However, the indices I mentioned earlier are not directly affiliated with ICE.
+
+
+MAIN INDEXES >> NOT PART OF ICE:
+    S&P 500: The S&P 500 is an index that represents the performance of 500 large publicly traded companies in the United States. It includes companies from various sectors such as technology, healthcare, finance, and consumer goods. The index is widely used as a benchmark for the overall performance of the U.S. stock market.
+
+    Dow Jones Industrial Average (DJIA): The DJIA is one of the oldest and most recognized indices globally. It consists of 30 large, blue-chip companies from different industries in the United States, including companies like Apple, Microsoft, and Coca-Cola. The DJIA is often seen as an indicator of the overall health of the U.S. stock market.
+
+    NASDAQ Composite: The NASDAQ Composite is an index that tracks the performance of all the stocks listed on the NASDAQ stock exchange. It includes a significant number of technology and growth-oriented companies, making it a popular benchmark for the performance of the tech-heavy portion of the stock market.
+
+    FTSE 100: The FTSE 100 is an index representing the 100 largest companies listed on the London Stock Exchange. It includes companies from various sectors and serves as a benchmark for the UK stock market.
+
+    Nikkei 225: The Nikkei 225 is a major stock market index in Japan, consisting of 225 leading companies listed on the Tokyo Stock Exchange. It reflects the overall performance of Japanese stock markets and is widely followed by investors
+
+
+-- Pandas
+-- Numpy
+-- Matplotlib
+-- Seaborn
+-- Plotly
+-- Sklearn
+-- Scipy
+
+Hyper Parameter tuning: GridSearchCV, RandomizedSearchCV, Optuna, SHAAP
+
+Imputing Missing Values: mean, median, mode, use modelling - KNN, Regression
+distances: Euclidean (the straight-line distance between two points in Euclidean space), Manhattan,  Cosaine (calculating the cosine of the angle between them), Minkowski etc.
+
+Overfitting and Underfitting
+
+bias - variance trade-off
