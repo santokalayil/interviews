@@ -30,5 +30,8 @@ QUIT;
 #  clearning mysql shell
 \! clear;
 
-
+# prerquestites for installing sqlalchemy and run
+sudo apt-get install libmysqlclient-dev
+poetry add mysqlclient
+poetry add sqlalchemy
 
